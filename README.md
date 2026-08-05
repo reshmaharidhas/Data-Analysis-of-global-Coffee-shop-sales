@@ -7,6 +7,9 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reshmaharidhas/Data-Analysis-of-global-Coffee-shop-sales">
 </p>
 
+## Kaggle Notebook
+SQL: https://www.kaggle.com/code/reshmaharidhas/coffee-shop-global-sales-analysis
+
 ## Dataset🔗
 - Source: Kaggle 
 - Source url: https://www.kaggle.com/datasets/moezalikhan/global-coffee-shop-sales-dataset
@@ -19,6 +22,12 @@
 - SQLAlchemy
 - SQLite
 - Seaborn
+
+## Database Development🗄️
+- MySQL Workbench - original SQL query development and testing
+
+## Visualizations
+
 
 ## License
 MIT
