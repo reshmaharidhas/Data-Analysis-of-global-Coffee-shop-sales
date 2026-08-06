@@ -1,4 +1,4 @@
-# Data Analysis of global Coffee shop sales
+# 🏪Data Analysis of global Coffee shop sales
 
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-global-Coffee-shop-sales"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-global-Coffee-shop-sales&label=Visitors&labelColor=%2300ff00&countColor=%23000000&style=plastic&labelStyle=none" /></a>
@@ -7,14 +7,14 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reshmaharidhas/Data-Analysis-of-global-Coffee-shop-sales">
 </p>
 
-## Kaggle Notebook
+## 💻Kaggle Notebook
 SQL: https://www.kaggle.com/code/reshmaharidhas/coffee-shop-global-sales-analysis
 
-## Dataset🔗
+## 🔗Dataset
 - Source: Kaggle 
 - Source url: https://www.kaggle.com/datasets/moezalikhan/global-coffee-shop-sales-dataset
 
-## Tech Stack💻
+## 💻Tech Stack
 - SQL
 - Pandas
 - Numpy
@@ -23,11 +23,15 @@ SQL: https://www.kaggle.com/code/reshmaharidhas/coffee-shop-global-sales-analysi
 - SQLite
 - Seaborn
 
-## Database Development🗄️
+## 🗄️Database Development
 - MySQL Workbench - original SQL query development and testing
 
-## Visualizations
+## 📊Visualizations
+![](plots/average_price_of_double_espresso_across_countries.png)
+![](plots/top_5_least_sold_products_in_australia.png)
+![](plots/total_quantity_of_coffee_drank_by_customer_agegroup.png)
+![](plots/total_quantity_of_products_sold_every_month.png)
+![](plots/total_quantity_of_products_sold_when_temperature_islessthan0degree.png)
 
-
-## License
+## 💻License
 MIT
